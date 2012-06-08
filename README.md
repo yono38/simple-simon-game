@@ -4,5 +4,4 @@
 In processing. For the arduino board
 
 // TODO
-// Create abstraction for sequence checker
-
+Could add a button to change difficulty?
